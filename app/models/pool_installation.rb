@@ -1,0 +1,2 @@
+class PoolInstallation < ApplicationRecord
+end
